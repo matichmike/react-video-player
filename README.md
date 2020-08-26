@@ -1,3 +1,22 @@
+# React Video Player
+Video player tool using Youtube API
+
+## Preview
+![“Sample Cherry Blossom”](https://github.com/matichmike/react-video-player/blob/master/screenshots/cherryBlossom.png?raw=true)
+<br/>
+<br/>
+!["Sample Tallest Buildings"](https://github.com/matichmike/react-video-player/blob/master/screenshots/tallestBuildings.png?raw=true)
+<br/>
+<br/>
+
+
+## Setup 
+* Clone or Copy the repository
+* npm install
+* npm start
+* run http://localhost:3000/ in browser
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
