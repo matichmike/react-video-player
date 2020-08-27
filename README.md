@@ -1,5 +1,6 @@
 # React Video Player
 Video player tool that uses Youtube API
+
 The app is deployed at Github Pages, please click [HERE](https://matichmike.github.io/react-video-player)
 
 ## Preview
