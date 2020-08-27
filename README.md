@@ -1,5 +1,6 @@
 # React Video Player
-Video player tool using Youtube API
+Video player tool that uses Youtube API
+The app is deployed at Github Pages, please click [HERE](https://matichmike.github.io/react-video-player)
 
 ## Preview
 ![“Sample Cherry Blossom”](https://github.com/matichmike/react-video-player/blob/master/screenshots/cherryBlossom.png?raw=true)
