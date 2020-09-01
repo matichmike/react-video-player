@@ -1,15 +1,7 @@
 # React Video Player
-Video player tool that uses Youtube API
+Video player tool that uses Youtube API this time with React Hooks instead of class based components
 
-The app is deployed at Github Pages, please click [HERE](https://matichmike.github.io/react-video-player)
-
-## Preview
-![“Sample Cherry Blossom”](https://github.com/matichmike/react-video-player/blob/master/screenshots/cherryBlossom.png?raw=true)
-<br/>
-<br/>
-!["Sample Tallest Buildings"](https://github.com/matichmike/react-video-player/blob/master/screenshots/tallestBuildings.png?raw=true)
-<br/>
-<br/>
+The original React Video Player app with class based components is [HERE](https://github.com/matichmike/react-video-player)
 
 
 ## Setup 
